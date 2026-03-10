@@ -31,6 +31,14 @@ The Excel analysis focuses on several key areas:
    - Top brands by unit count
    - Market concentration and long-tail brand structure
 
+4. **Key Observations & Recommendations**
+   - Opportunity to introduce **Small** plants to diversify inventory
+   - Risk from over-reliance on a single vendor (UGADU)
+   - Pricing strategy insights (e.g., deep discount on Jade Plant)
 
+## 🗃️ Output & Results
+- **Dashboard snapshot:** `Result/Plant Analysis.png`
+
+---
 
 
